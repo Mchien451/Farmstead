@@ -47,7 +47,6 @@ function createHeader() {
   '<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a class="py-2" href="./about.html">About</a></li>'+
   '<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13 current_page_item menu-item-32"><a class="py-2" href="./services.html" aria-current="page">Services</a></li>'+
   '<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a class="py-2" href="./blog_posts.html">Blog Posts</a></li>'+
-  '<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a class="py-2" href="./landing_page.html">Landing page</a></li>'+
   '<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a class="py-2" href="./contact.html">Contact</a></li>'+
   '</ul>'+
   ''+
